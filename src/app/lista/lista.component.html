@@ -1,0 +1,6 @@
+<div class="lista">
+  <h3>Listado de cosas</h3>
+  <ul>
+    <li *ngFor="let item of cosasArray" (click)="onSelect(item)">{{ item.name }}</li>
+  </ul>
+</div>

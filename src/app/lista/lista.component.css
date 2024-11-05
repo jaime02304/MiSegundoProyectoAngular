@@ -1,0 +1,12 @@
+.lista {
+  width: 25%;
+  border: 1px solid green;
+  background-color: blanchedalmond;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
+li{
+  list-style-type:none;
+  margin: 10px;
+}
